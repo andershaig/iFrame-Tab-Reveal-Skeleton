@@ -1,0 +1,29 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    columnize (0.3.2)
+    crack (0.1.8)
+    httparty (0.7.4)
+      crack (= 0.1.8)
+    json (1.5.1)
+    linecache (0.43)
+    rack (1.2.1)
+    ruby-debug (0.10.4)
+      columnize (>= 0.1)
+      ruby-debug-base (~> 0.10.4.0)
+    ruby-debug-base (0.10.4)
+      linecache (>= 0.3)
+    sinatra (1.1.2)
+      rack (~> 1.1)
+      tilt (~> 1.2)
+    tilt (1.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crack
+  httparty
+  json
+  ruby-debug
+  sinatra

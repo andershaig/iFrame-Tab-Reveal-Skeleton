@@ -1,0 +1,7 @@
+# Configure the values below with the values from your application
+# You can create one at hhttp://www.facebook.com/developers/apps.php
+app_id: 123456789000000
+secret: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+api_key: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+app_url: "http://app-url-at.heroku.com" # No trailing slash
+fb_app_url: "http://apps.facebook.com/app-url" # No trailing slash
