@@ -21,73 +21,17 @@ body {
 #header {
 	width:500px;
 	height:113px;
-	background: url('../img/banner-bg.jpg') 0 0 no-repeat;
+	background: url('../img/header-bg.jpg') 0 0 no-repeat;
 }
 
-#for-all {
+#locked {
 	width:500px;
 	height:113px;
+	background: url('../img/locked-bg.png') 0 0 no-repeat;
 }
 
-#for-fans {
+#unlocked {
 	width:500px;
 	height:113px;
 	background: url('../img/unlocked-bg.png') 0 0 no-repeat;
-}
-
-input#mce-EMAIL {
-	border:1px solid #925706;
-	background:#000;
-	-webkit-box-shadow: inset -1px -1px 2px rgba(255,255,255,0.5);
-	-moz-box-shadow: inset -1px -1px 2px rgba(255,255,255,0.5);
-	box-shadow: inset -1px -1px 2px rgba(255,255,255,0.5);
-	padding:7px;
-	margin:46px 0 0 30px;
-	width:286px;
-	color:#FFF;
-	float:left;
-}
-
-#submit {
-	border:none;
-	background:none;
-	cursor:pointer;
-	float:left;
-	margin:24px 0 0 0;
-}
-
-#share {
-	width:500px;
-	height:40px;
-	line-height:40px;
-	font-size:18px;
-	text-align:center;
-	background-color:#FA9626;
-}
-
-#share a {
-	color:#000;
-	cursor:pointer;
-	text-decoration:underline;
-}
-
-#logo {
-	width:500px;
-	height:365px;
-}
-
-#content {
-	width:500px;
-	height:433px;
-}
-
-#bottom {
-	width:500px;
-	height:89px;
-}
-
-#website {
-	display:block;
-	width:100%;
-	height:100%;
 }
